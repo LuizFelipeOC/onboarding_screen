@@ -1,16 +1,15 @@
-# onboarding
+# Welcome in this repository
 
-A new Flutter project.
+This project was created with unique objective that learn and improve my skills in  aplications development mobile using flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started, is necessary that you have flutter installed in version 3.0.0 or bigger. <br/>
+To realize download you can realize git clone of project and aftering run command flutter pub get to get dependecy packages 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+https://github.com/LuizFelipeOC/onboarding_screen.git
+```
+```
+flutter pub get
+```
